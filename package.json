@@ -1,6 +1,5 @@
 {
   "name": "weather-app",
-  "private": true,
   "homepage": "https://maharshisoni24.github.io/Weather_Web/",
   "version": "0.0.0",
   "type": "module",
